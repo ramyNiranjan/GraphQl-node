@@ -1,0 +1,15 @@
+{
+  "name": "graphql-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.25.0",
+    "graphql": "^15.5.0"
+  }
+}
